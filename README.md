@@ -24,7 +24,8 @@ The  workshop material will rely on Jupyter Notebooks which are targeted for run
 
 ## Before You Arrive
 
-Do the following before you come to the tutorial:
+> [!IMPORTANT]  
+> Complete the following steps **BEFORE** you come to the tutorial
 
 1. [Google Colab](https://colab.research.google.com) **Setup Account**
 
