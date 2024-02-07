@@ -79,7 +79,7 @@ The  workshop material will rely on Jupyter Notebooks which are targeted for run
 > 
 >     </details>
 > 
-> - [ ] 🦙 Request access to Llama-2 model
+> - [ ] 🦙 [Request access](https://ai.meta.com/resources/models-and-libraries/llama-downloads/) to Llama-2 model
 > 
 >     <details closed><summary><code>Llama-2 Access Instructions</code></summary>
 > 
