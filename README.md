@@ -13,8 +13,7 @@ The  workshop material will rely on Jupyter Notebooks which are targeted for run
     <summary><b>Tutorials</b></summary>
     <ol start="1.">
         <li><a href="./tutorials/01-llm-101/"><code>LLMs 101</code></a></li>
-        <li><a href="./tutorials/02-basic-prompt-engineering/"><code>Basic Prompt Engineering</code></a></li>
-        <li><a href="./tutorials/03-intermediate-prompt-engineering/"><code>Intermediate Prompt Engineering</code></a></li>
+        <li><a href="./tutorials/02-basic-prompt-engineering/"><code>Prompt Engineering</code></a></li>
         <li><a href="./tutorials/04-rag/"><code>Retrieval Augmented Generation (RAG)</code></a></li>
         <li><a href="./tutorials/05-fine-tuning/"><code>Fine-Tuning an Existing LLM</code></a></li>
         <li><a href="./tutorials/06-llm-from-scratch/"><code>LLMs from Scratch</code></a></li>
