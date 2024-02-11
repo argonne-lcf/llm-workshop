@@ -57,7 +57,7 @@ To run this script:
 
 The script checks if Python 3 is installed, installs it if it's not, upgrades pip, installs Jupyter Notebook, and then checks if Jupyter Notebook is installed successfully.
 
-'''jupyter-notebook Introduction.ipynb'''
+```jupyter-notebook Introduction.ipynb```
 
 Will run the example notebook.
 
