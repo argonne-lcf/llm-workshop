@@ -69,4 +69,3 @@ Will run the example notebook.
   `├──` [`01-llm-101`](https://github.com/argonne-lcf/llm-workshop/tutorials/01-llm101/)
     `└──` [`06-llm-from-scratch`](https://github.com/argonne-lcf/llm-workshop/tutorials/06-llm-from-scratch/)
     -->
-    ~
